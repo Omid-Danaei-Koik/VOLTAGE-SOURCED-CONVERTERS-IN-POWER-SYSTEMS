@@ -40,9 +40,6 @@ The simulation files are organized and named based on the chapter and example nu
 
 ## **Usage Guidelines**
 1. Clone or download the repository:
-   ```bash
-   git clone [https://github.com/Omid-Danaei-Koik/VOLTAGE-SOURCED-CONVERTERS-IN-POWER-SYSTEMS/tree/main]
-   ```
 2. Open the desired `.slx` file in MATLAB R2017a or newer versions.
 3. Run the simulation in Simulink to analyze the results.
 4. Customize parameters as needed for experimentation and learning.
