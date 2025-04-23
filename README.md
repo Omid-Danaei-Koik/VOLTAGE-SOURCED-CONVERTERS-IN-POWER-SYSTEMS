@@ -3,6 +3,11 @@
 
 This repository contains 14 MATLAB simulation files based on the examples presented in the book *Voltage-Sourced Converters in Power Systems* by Amirnaser Yazdani (University of Western Ontario) and Reza Iravani (University of Toronto). These simulations were developed using MATLAB R2017a and are compatible with later versions. Simulink has been utilized as the primary tool for these models.
 
+****************************************************************************************************
+Book Name : Voltage-Sourced Converters in Power Systems: Modeling, Control, and Applications
+[Voltage-Sourced Converters in Power Systems (IEEE Book)](https://ieeexplore.ieee.org/book/6739364)
+****************************************************************************************************
+
 ---
 
 ## **Contents**
@@ -15,6 +20,9 @@ This repository contains 14 MATLAB simulation files based on the examples presen
 
 ## **Introduction**
 This repository includes MATLAB simulation files for various examples outlined in *Voltage-Sourced Converters in Power Systems*. Each file corresponds to a specific example from different chapters of the book and is named accordingly for easier navigation.
+
+Book Name : Voltage-Sourced Converters in Power Systems: Modeling, Control, and Applications
+[Voltage-Sourced Converters in Power Systems (IEEE Book)](https://ieeexplore.ieee.org/book/6739364)
 
 ---
 
@@ -49,3 +57,8 @@ The simulation files are organized and named based on the chapter and example nu
 ## **System Requirements**
 - MATLAB R2017a or later
 - Simulink toolbox
+
+*****************************************************************************************************
+Book Name : Voltage-Sourced Converters in Power Systems: Modeling, Control, and Applications
+[Voltage-Sourced Converters in Power Systems (IEEE Book)](https://ieeexplore.ieee.org/book/6739364)
+*****************************************************************************************************
